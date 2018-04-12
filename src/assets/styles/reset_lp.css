@@ -1,0 +1,23 @@
+/*
+重置默认样式
+ */
+html{
+  padding:0;
+  margin:0;
+  width:100%;
+  height:100%;
+  position: relative;
+}
+body{
+  padding:0;
+  margin:0;
+  width:100%;
+  height:100%;
+  top:0;
+  left:0;
+  position: absolute;
+}
+
+
+/* 重置列表元素 */
+ul, ol, li{ list-style: none; }
